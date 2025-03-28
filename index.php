@@ -12,7 +12,7 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="teacher.php">Manage Teachers</a></li>
-            <li><a href="classes.php">Manage Classes</a></li>
+            <li><a href="class.php">Manage Classes</a></li>
             <li><a href="pupil.php">Manage Pupils</a></li>
             <li><a href="parent.php">Manage Parents</a></li>
         </ul>
